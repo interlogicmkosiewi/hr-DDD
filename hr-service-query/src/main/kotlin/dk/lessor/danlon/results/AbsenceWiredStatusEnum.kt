@@ -1,0 +1,5 @@
+package dk.lessor.danlon.results
+
+enum class AbsenceWiredStatusEnum {
+    ALL, TRANSFERED, NOT_TRANSFERED, PARTIALLY_TRANSFERED, NOT_AND_PARTIALLY_TRANSFERED, WILL_NOT_BE_TRANSFERRED
+}
